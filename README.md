@@ -1,2 +1,3 @@
 # Discord-Bot-Javascript-
-Draft Bot 
+This is just a draft bot for basic features and operating
+This is  a javascript based bot.
